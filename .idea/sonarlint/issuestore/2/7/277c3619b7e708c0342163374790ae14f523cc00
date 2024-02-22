@@ -1,0 +1,19 @@
+
+£
+java:S4144#"€Update this method so that its implementation is not identical to "should_ReturnCorrectRating_When_CorrectApartment" on line 21.(·€³©ÿÿÿÿÿ8õ‹æ§Õ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬«íÙ8ö‹æ§Õ1
+=
+java:S2111"!Use "BigDecimal.valueOf" instead.(Ø©@8ø‹æ§Õ1
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·€³©ÿÿÿÿÿ8ù‹æ§Õ1
+=
+java:S2111%"!Use "BigDecimal.valueOf" instead.(Ø©@8ú‹æ§Õ1
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ê•8˜ùæ§Õ1
+C
+java:S21116"!Use "BigDecimal.valueOf" instead.(ô¨ Øûÿÿÿÿ8›ùæ§Õ1
+C
+java:S21117"!Use "BigDecimal.valueOf" instead.(ª¿º£øÿÿÿÿ8œùæ§Õ1
+C
+java:S21118"!Use "BigDecimal.valueOf" instead.(û˜ãƒùÿÿÿÿ8ùæ§Õ1
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÆÓÂûÿÿÿÿ8£ùæ§Õ1
+H
+java:S5960"+Remove this assertion from production code.(ÌàÜÏ8ÿ‹æ§Õ1

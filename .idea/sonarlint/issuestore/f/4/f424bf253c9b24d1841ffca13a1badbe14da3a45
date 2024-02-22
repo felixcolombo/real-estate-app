@@ -1,0 +1,20 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ç‰ˆùÿÿÿÿ8 ÅíùÕ1
+C
+java:S2111"!Use "BigDecimal.valueOf" instead.(òØÕ£ıÿÿÿÿ8£ÅíùÕ1
+C
+java:S2111%"!Use "BigDecimal.valueOf" instead.(³ñ¸Çûÿÿÿÿ8£ÅíùÕ1
+>
+java:S2111&"!Use "BigDecimal.valueOf" instead.(·º¶ş8£ÅíùÕ1
+o	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÖâ²ıÿÿÿÿ8¦ÅíùÕ1
+C
+java:S2111B"!Use "BigDecimal.valueOf" instead.(òØÕ£ıÿÿÿÿ8§ÅíùÕ1
+C
+java:S2111H"!Use "BigDecimal.valueOf" instead.(³ñ¸Çûÿÿÿÿ8§ÅíùÕ1
+>
+java:S2111I"!Use "BigDecimal.valueOf" instead.(·º¶ş8¨ÅíùÕ1
+o	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È×†øıÿÿÿÿ8ªÅíùÕ1
+T
+java:S1128"7Remove this unused import 'org.junit.jupiter.api.Test'.(Öºˆß8«ÅíùÕ1
+H
+java:S5960'"+Remove this assertion from production code.(Ú¸Ã“8«ÅíùÕ1
